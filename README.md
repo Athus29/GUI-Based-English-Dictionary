@@ -25,3 +25,8 @@ The project is implemented using the following concepts:
 - **Object-Oriented Programming (OOP)**: Classes, objects, and functions are utilized for structured programming.
 - **Conditional Statements and Loops**: Used to handle the program's flow and logic.
 - **Exception Handling**: Manages errors such as missing internet connection or unavailable words.
+
+## References
+
+- [PyDictionary](https://pypi.org/project/PyDictionary/)
+- [Getting Started with PyQt](https://wiki.python.org/moin/PyQt/Tutorials)
