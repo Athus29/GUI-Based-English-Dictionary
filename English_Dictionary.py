@@ -1,5 +1,6 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
-from PyDictionary import PyDictionary as Eng_dict
+# from PyDictionary import PyDictionary as Eng_dict
+from pydictionary import Dictionary as Eng_dict
 from urllib.request import urlopen
 
 
